@@ -16,6 +16,9 @@
         <mxCell id="dNTkGUtapwAcdy8Rlxil-3" value="意图识别&amp;Query增强&amp;敏感字符清洗" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="260" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="dNTkGUtapwAcdy8Rlxil-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dNTkGUtapwAcdy8Rlxil-4" target="dNTkGUtapwAcdy8Rlxil-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dNTkGUtapwAcdy8Rlxil-4" value="智能分支路由" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e6f7ff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="340" width="140" height="50" as="geometry" />
         </mxCell>
